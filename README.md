@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Java Dev | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F79E&width=435&lines=Passionate+AI+%7C+ML+%7C+DL+%7C+NLP+%7C+GenAI+Engineer;Building+daily+AI-powered+projects;Problem+Solver+%7C+Open+Source+Lover;Let's+connect+%26+grow+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F79E&width=435&lines=Passionate+AI+%7C+ML+%7C+DL+%7C+NLP+%7C+GenAI+Engineer;Building+AI-powered+projects;Problem+Solver+%7C+Open+Source+contribution;Let's+connect+%26+grow+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me:
 - 🎓 Final Year IT Engineering Student at MJ College, Osmania University  
 - 💡 I enjoy solving real-world problems using AI and ML  
-- 🧠 Currently working on: `AI SaaS Tools` + `Daily ML Projects`  
+- 🧠 Currently working on: `AI SaaS Tools` + ` ML Projects`  
 - 🌱 Learning: LangChain, HuggingFace, Prompt Engineering  
 - 📫 How to reach me: afrozali3001.aa@gmail.com  
 
@@ -28,27 +28,7 @@
   <img src="https://img.shields.io/badge/MediaPipe-%2300A67E?style=for-the-badge"/>
 </p>
 
----
 
-### 🛠️ Projects I'm Proud Of:
-
-#### 🎯 Eye-Controlled Mouse Cursor  
-> Control the cursor using just your eyes  
-> `Python`, `OpenCV`, `MediaPipe`, `ML`
-
-#### 🧠 AI Chatbot using LangChain + HuggingFace  
-> Built a smart chatbot that talks with context  
-> `LangChain`, `Transformers`, `NLP`, `Python`
-
-#### 📈 CPU Scheduling Visualizer  
-> Simulates OS scheduling algorithms  
-> `Java`, `DSA`, `GUI`
-
-#### ✍️ AI-Powered Content Generator  
-> Dynamic content generator with fine-tuned LLMs  
-> `LangChain`, `HuggingFace`, `Prompt Engineering`
-
----
 
 ### 📜 Certifications:
 - ✅ ML, NLP & DL Course – *Krish Naik (Udemy)*  
