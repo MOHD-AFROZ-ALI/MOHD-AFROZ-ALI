@@ -40,6 +40,17 @@
 
 ---
 
+---
+
+📌 **Featured Projects**
+
+- [🧠 GenAI Chatbot using LangChain & RAG](#)  
+- [📄 Text Summarizer using BART Transformers](#)  
+- [🔁 MLOps Pipeline for Model Deployment](#)  
+- [📊 NLP-based Twitter Sentiment Dashboard](#)  
+
+---
+
 ### 📊 GitHub Stats:
 
 <p align="center">
