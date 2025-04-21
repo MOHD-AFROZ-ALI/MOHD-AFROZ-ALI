@@ -12,7 +12,7 @@
 - 🎓 Final Year IT Engineering Student at MJ College, Osmania University  
 - 💡 I enjoy solving real-world problems using AI and ML  
 - 🧠 Currently working on: `AI  Tools` + ` ML Projects`  
-- 🌱 Learning: LangChain, HuggingFace, Prompt Engineering  
+- 🌱 Learning: LangChain, HuggingFace, Prompt Engineering...  
 - 📫 How to reach me: afrozali3001.aa@gmail.com  
 - 🌐 portfolio website: https://mohd-afroz-ali.github.io/
 
