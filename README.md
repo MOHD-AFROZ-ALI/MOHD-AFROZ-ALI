@@ -18,7 +18,7 @@
 > **Open to**: SDE | ML Engineering | MLOps roles
 
 <div align="center">
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1NOUU3bQOtbRCNeM8S5kXTUUDW3Kgfqjk/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge" height="40">
   </a>
 </div>
